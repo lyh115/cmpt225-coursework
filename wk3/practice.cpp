@@ -1,4 +1,6 @@
-// Yihang Li ID:301606640
+// Yihang Li
+// student ID: 301606640
+// computing ID: yla809
 #include "Deck.hpp"
 #include <iostream> //for the operator<<
 using namespace std;
